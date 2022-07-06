@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "convert": "^4.5.0",
-    "easy-soap-request": "^4.7.0",
-    "request": "^2.88.2",
-    "xml-js": "^1.6.11"
-  }
-}
